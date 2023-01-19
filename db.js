@@ -1,0 +1,1 @@
+DB_URL="mongodb+srv://hemant:hemant@cluster0.1tk1r.mongodb.net/bugTracker?retryWrites=true&w=majority"
